@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Spaceboi3000 🚀
 
-<!--
-**spaceboi3000/spaceboi3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 **Electrical & Computer Engineering Student** specializing in **Robotics, Automation, and Microcontrollers**.  
+🏆 **Award-winning** developer in **Autonomous Driving, AI, and Cybersecurity**.  
+💡 Passionate about **FPGA Development (VHDL), Embedded Systems, and AI in Robotics**.  
 
-Here are some ideas to get you started:
+📌 **Check out my projects:**  
+- 🏎️ **Autonomous Vehicle Simulation** → [Repo Link]  
+- 🛡️ **Cybersecurity for Additive Manufacturing** → [Repo Link]  
+- 🎛️ **FIR Filter on Zybo Board (FPGA + AXI4-Lite)** → [Repo Link]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nicolas-moraitis-032601232/)  
