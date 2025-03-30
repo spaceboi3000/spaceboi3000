@@ -5,9 +5,7 @@
 💡 Passionate about **FPGA Development (VHDL), Embedded Systems, and AI in Robotics**.  
 
 📌 **Check out my projects:**  
-- 🏎️ **Autonomous Vehicle Simulation** → [Repo Link]  
-- 🛡️ **Cybersecurity for Additive Manufacturing** → [Repo Link]  
-- 🎛️ **FIR Filter on Zybo Board (FPGA + AXI4-Lite)** → [Repo Link]  
-
+- 🏎️ **Autonomous Vehicle - BFMC** → [(https://github.com/AggelikiZ/BFMC-iRasional/)]
+- 💻 **Digital Signal Processing** → [(https://github.com/spaceboi3000/dsp2)] and [(https://github.com/orion-3464/dsp1)]
 📫 **Let's connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nicolas-moraitis-032601232/)  
