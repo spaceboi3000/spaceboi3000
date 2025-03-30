@@ -6,7 +6,9 @@
 
 📌 **Check out my projects:**  
 - 🏎️ **Autonomous Vehicle - BFMC** → [(https://github.com/AggelikiZ/BFMC-iRasional/)]
-- 💻 **Digital Signal Processing** → [(https://github.com/spaceboi3000/dsp2)] and [(https://github.com/orion-3464/dsp1)]
+- 📺 **Digital Signal Processing** → [(https://github.com/spaceboi3000/dsp2)] and [(https://github.com/orion-3464/dsp1)]
+- 💻 **Intro toOperating Systems** →  [(https://github.com/spaceboi3000/leit1)]
+  
 
 
 📫 **Let's connect!**  
