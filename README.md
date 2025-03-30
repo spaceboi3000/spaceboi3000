@@ -1,7 +1,6 @@
 ### Hi, I'm Spaceboi3000 - Nicolas Moraitis🚀
 
 🔬 **Electrical & Computer Engineering Student** specializing in **Robotics, Automation, and Microcontrollers**.  
-🏆 **Award-winning** developer in **Autonomous Driving, AI, and Cybersecurity**.  
 💡 Passionate about **FPGA Development (VHDL), Embedded Systems, and AI in Robotics**.  
 
 My username is a reference to Iron Man's "I love you 3000"  :)
